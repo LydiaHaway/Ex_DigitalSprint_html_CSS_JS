@@ -1,5 +1,4 @@
 # Ex_DigitalSprint_html_CSS_JS
-# Exercise_DigitalSprint_html_CSS_JS
 Version 1.1 18/03/2022
 
 ## Introduction
